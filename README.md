@@ -40,10 +40,12 @@ User privacy is a top priority.
 
 ## 📸 Uygulama Görselleri (TR)
 
-![Ekran Görüntüsü 2](tr/2.png)
-![Ekran Görüntüsü 3](tr/3.png)
-![Ekran Görüntüsü 4](tr/4.png)
-![Ekran Görüntüsü 5](tr/5.png)
+<p align="center">
+  <img src="tr/2.png" width="200" />
+  <img src="tr/3.png" width="200" />
+  <img src="tr/4.png" width="200" />
+  <img src="tr/5.png" width="200" />
+</p>
 
 ---
 
