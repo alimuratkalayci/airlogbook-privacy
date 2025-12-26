@@ -6,10 +6,12 @@
 
 ## 📸 App Screenshots (EN)
 
-![Screenshot 2](en/2.png)
-![Screenshot 3](en/3.png)
-![Screenshot 4](en/4.png)
-![Screenshot 5](en/5.png)
+<p align="center">
+  <img src="en/2.png" width="200" />
+  <img src="en/3.png" width="200" />
+  <img src="en/4.png" width="200" />
+  <img src="en/5.png" width="200" />
+</p>
 
 ---
 
