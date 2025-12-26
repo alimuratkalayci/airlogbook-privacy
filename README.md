@@ -6,7 +6,7 @@
 
 ## 📸 App Screenshots (EN)
 
-![Screenshot 2](assets/screenshots/en/2.png)
+![Screenshot 2](en/2.png)
 ![Screenshot 3](assets/screenshots/en/3.png)
 ![Screenshot 4](assets/screenshots/en/4.png)
 ![Screenshot 5](assets/screenshots/en/5.png)
