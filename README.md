@@ -7,9 +7,9 @@
 ## 📸 App Screenshots (EN)
 
 ![Screenshot 2](en/2.png)
-![Screenshot 3](assets/screenshots/en/3.png)
-![Screenshot 4](assets/screenshots/en/4.png)
-![Screenshot 5](assets/screenshots/en/5.png)
+![Screenshot 3](en/3.png)
+![Screenshot 4](en/4.png)
+![Screenshot 5](en/5.png)
 
 ---
 
@@ -38,10 +38,10 @@ User privacy is a top priority.
 
 ## 📸 Uygulama Görselleri (TR)
 
-![Ekran Görüntüsü 2](assets/screenshots/tr/2.png)
-![Ekran Görüntüsü 3](assets/screenshots/tr/3.png)
-![Ekran Görüntüsü 4](assets/screenshots/tr/4.png)
-![Ekran Görüntüsü 5](assets/screenshots/tr/5.png)
+![Ekran Görüntüsü 2](tr/2.png)
+![Ekran Görüntüsü 3](tr/3.png)
+![Ekran Görüntüsü 4](tr/4.png)
+![Ekran Görüntüsü 5](tr/5.png)
 
 ---
 
