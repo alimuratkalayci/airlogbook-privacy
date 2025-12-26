@@ -101,4 +101,4 @@ For support or inquiries, please use the contact information provided in the app
 
 ---
 
-**Developed by EN Bedir**
+**Developed by Ali Murat Kalaycı**
