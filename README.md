@@ -1,4 +1,5 @@
 # ✈️ Air Log Book
+📲 **Download on Google Play:**  https://play.google.com/store/apps/details?id=com.piesoft.airlogbook
 
 **Air Log Book** is a modern mobile application developed for pilots to digitally record, manage, and track their flight logs in a secure and organized way.
 
